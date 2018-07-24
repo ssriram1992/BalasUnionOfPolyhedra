@@ -1,4 +1,4 @@
-# Balas' union of polyhedron.
+# Balas's union of polyhedra.
 
 ## Purpose
 - To show integration between armadillo and Gurobi C++ API
@@ -17,7 +17,7 @@
 - A linear objective can be given and the code uses Gurobi to optimize the linear objective over the convex hull of the union.
 
 ## Notes
-- Check _Theorem 4.39_ in Conforti, M., Cornuéjols, G., & Zambelli, G. (2014). Integer Programming (Vol. 271). Cham: Springer International Publishing. https://doi.org/10.1007/978-3-319-11008-0
+- Check _Theorem 4.39_ in Conforti, M., Cornuéjols, G., & Zambelli, G. (2014). Integer Programming (Graduate Texts in Mathematics Vol. 271). Springer International Publishing. https://doi.org/10.1007/978-3-319-11008-0
 - Notation used in the code corresponds to the symbols in the above textbook.
 
 ## Contact
