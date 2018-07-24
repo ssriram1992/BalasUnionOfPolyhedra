@@ -21,6 +21,6 @@
 - Notation used in the code corresponds to the symbols in the above textbook.
 
 ## Contact
-- Email comments, criticisms to ssankar<this number is given later>@jhu.edu
-- The number given later is the sum of the smallest prime number and the smallest odd prime number.
+- Email comments, criticisms to ssankar(this number is given later)@jhu.edu
+- The number given later (which goes into my email id) is the sum of the smallest prime number and the smallest odd prime number.
 - Alternatively drop comments on my [website](http://ssriram.weebly.com/).
