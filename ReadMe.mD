@@ -9,7 +9,7 @@
 - gcc compiler (g++) 
 
 ## Running the program
-- Set appropriate path for gurobi includes and armadillo includes in your computer.
+- Set appropriate path for gurobi includes and armadillo includes in the Makefile
 - `make`
 
 ## What does it do
